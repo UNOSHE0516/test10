@@ -1,6 +1,7 @@
 document.write("問1ーーーーーーーーー<br>");
 for(var i = 1; i <= 5; i++){
     document.write("★");
+    // コメント追加してみる
 }
 
 
